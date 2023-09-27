@@ -1,6 +1,6 @@
 🌎 Hello, World 🤙
 
-![Banner](https://github.com/ndeanleach/ndeanleach/blob/e1d041a0eae8c56738f0a884ffc46a81ae942b18/Github%20Banner.jpg)
+![Banner]()
 
 I'm Nate and this account is a show case of stuff I like to do. 
 
