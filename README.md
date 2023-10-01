@@ -3,7 +3,7 @@
 ### Hi 👋
 I'm Nathan and this account is a show case of stuff I like to do. 
 
-![coderesume](https://github.com/ndeanleach/ndeanleach/assets/143350542/92b8f011-e727-4823-866d-04f6a046d4f9)
+![coderesume](https://github.com/ndeanleach/ndeanleach/assets/143350542/80d75d45-2414-4fc8-aac7-2f655d682ffe)
 
 - 🌱 I’m currently learning SwiftUI framework
 - 💻 I also have experience with Web Development and 🐍 Python
