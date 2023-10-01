@@ -1,4 +1,4 @@
-![Banner](https://github.com/ndeanleach/ndeanleach/blob/921025c3fb52bcb0cd8635d7bbd9aa0174919688/Github%20Banner.svg)
+<img align="center" src="(https://github.com/ndeanleach/ndeanleach/blob/921025c3fb52bcb0cd8635d7bbd9aa0174919688/Github%20Banner.svg" >
 
 ### Nathan Leach
 
