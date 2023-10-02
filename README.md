@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ndeanleach/ndeanleach/blob/921025c3fb52bcb0cd8635d7bbd9aa0174919688/Github%20Banner.svg)
 
-##### Hi 👋 I'm Nathan and this account is a showcase of stuff I like to do. 
+#### Hi 👋 I'm Nathan and this account is a showcase of stuff I like to do. 
 
 ![resumeCode](https://github.com/ndeanleach/ndeanleach/assets/143350542/a03caedb-55e4-42c8-80f3-c16d5ce7fddf)
 
