@@ -7,7 +7,7 @@
 ## Hi 👋 I'm Nathan and this account is a showcase of stuff I like to do. 
 #### - 💯 In the middle of an intense #100DaysofCoding Challenge
 #### - 🌱 I’m currently learning SwiftUI framework
-#### - 💻 I also have experience with Web and 🐍 Python
+#### - 💻 I also have experience with Web Development and 🐍 Python
 #### - 📫 Email: ndeanleach@gmail.com
 #### - ⛓️ LinkedIn: https://www.linkedin.com/in/nathan-leach/
 
