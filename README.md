@@ -1,4 +1,4 @@
-![resumeCode](https://github.com/ndeanleach/ndeanleach/assets/143350542/a03caedb-55e4-42c8-80f3-c16d5ce7fddf)
+![resumeCode](https://github.com/ndeanleach/ndeanleach/blob/474b6cc7eb66802a32167d42a5d142cb2a4c3791/resumeCode%20(1).png)
 
 ## Hi 👋 I'm Nathan and this account is a showcase of stuff I like to do. 
 #### - 💯 In the middle of an intense #100DaysofCoding Challenge
